@@ -32,7 +32,7 @@ The script sends a request to [this API](https://api-ratp.pierre-grimaud.fr/v4/)
 - Add the following lines to your `.bashrc`:
 
   ```sh
-  alias ratp='/usr/local/bin/ratp.sh'
+  alias ratp='/usr/local/bin/ratp'
   ```
 
   and run `source .bashrc`.
