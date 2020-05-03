@@ -55,17 +55,17 @@ Schedule of the RER B at Bagneux:
 
 ```sh
 $ ratp b bagneux
-       Train à quai		Aeroport Charles de Gaulle 2 TGV
-   Train sans arrêt		Aeroport Charles de Gaulle 2 TGV
+       Train à quai	Aeroport Charles de Gaulle 2 TGV
+   Train sans arrêt	Aeroport Charles de Gaulle 2 TGV
                16:43	Mitry-Claye
                16:52	Aeroport Charles de Gaulle 2 TGV
-   Train sans arrêt		Aeroport Charles de Gaulle 2 TGV
+   Train sans arrêt	Aeroport Charles de Gaulle 2 TGV
                17:13	Mitry-Claye
                16:31	Robinson
-   Train sans arrêt		Saint-Remy-les-Chevreuse
+   Train sans arrêt	Saint-Remy-les-Chevreuse
                16:49	Massy-Palaiseau
                16:58	Robinson
-   Train sans arrêt		Saint-Remy-les-Chevreuse
+   Train sans arrêt	Saint-Remy-les-Chevreuse
                17:19	Massy-Palaiseau
 ```
 
@@ -74,7 +74,7 @@ Name of stations parsing seems to be case-insensitive, and seems not to care abo
 ```sh
 $ ratp A nanterre-ville
                16:48	Saint-Germain-en-Laye
-   Train sans arrêt		St-Germain-en-Laye. Poissy. Cergy.
+   Train sans arrêt	St-Germain-en-Laye. Poissy. Cergy.
                17:18	Saint-Germain-en-Laye
                17:48	Saint-Germain-en-Laye
                18:18	Saint-Germain-en-Laye
@@ -87,7 +87,7 @@ $ ratp A nanterre-ville
                19:07	Boissy-Saint-Leger
 $ ratp a Nanterre Ville
                16:48	Saint-Germain-en-Laye
-   Train sans arrêt		St-Germain-en-Laye. Poissy. Cergy.
+   Train sans arrêt	St-Germain-en-Laye. Poissy. Cergy.
                17:18	Saint-Germain-en-Laye
                17:48	Saint-Germain-en-Laye
                18:18	Saint-Germain-en-Laye
@@ -150,7 +150,7 @@ $ ratp a chatelet les halles
                17:16	La Defense (Grande Arche)
                17:31	Saint-Germain-en-Laye
                17:46	La Defense (Grande Arche)
-       Train à quai		Marne-la-Vallee Chessy
+       Train à quai	Marne-la-Vallee Chessy
                16:53	Boissy-Saint-Leger
                17:08	Marne-la-Vallee Chessy
                17:23	Boissy-Saint-Leger
@@ -165,7 +165,7 @@ $ ratp a la defense
 Schedules unavailable	Destination unavailable
 $ ratp a grande arche de la defense
     A l'approche V.2	Saint-Germain-en-Laye
-     Sans arrêt V.2		St-Germain-en-Laye. Poissy. Cergy.
+     Sans arrêt V.2	St-Germain-en-Laye. Poissy. Cergy.
   Train terminus V.B	La Defense (Grande Arche)
   Sans voyageurs V.B	St-Germain-en-Laye. Poissy. Cergy.
         17:12 Voie 2	Saint-Germain-en-Laye
